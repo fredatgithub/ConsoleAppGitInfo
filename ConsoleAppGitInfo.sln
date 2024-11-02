@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppGitInfo", "ConsoleAppGitInfo\ConsoleAppGitInfo.csproj", "{CCE81419-C258-4435-9336-74B9AFC3D4E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppgitInfoNet8", "ConsoleAppgitInfoNet8\ConsoleAppgitInfoNet8.csproj", "{C0098532-3E8E-4BE7-9B63-69A41AA33D57}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CCE81419-C258-4435-9336-74B9AFC3D4E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCE81419-C258-4435-9336-74B9AFC3D4E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCE81419-C258-4435-9336-74B9AFC3D4E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0098532-3E8E-4BE7-9B63-69A41AA33D57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0098532-3E8E-4BE7-9B63-69A41AA33D57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0098532-3E8E-4BE7-9B63-69A41AA33D57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0098532-3E8E-4BE7-9B63-69A41AA33D57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
